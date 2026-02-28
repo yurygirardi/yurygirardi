@@ -7,7 +7,7 @@ Map<String, dynamic> yury = {
   "name": "Yury Girardi",
   "birth": "30/04/1996",
   "education": "Computer Engineering",
-  "current_role": "Technology Coordinator at a bionic prosthetics company",
+  "current_role": "R&D Coordinator",
   "main_activities": [ "Developing mobile applications", "Building smart electronic devices", "Creating complete tech systems"],
   "interests": ["BMX", "MTB", "Strength training", "Muay Thai"],
   "mindset": "Direct, practical, and focused on solving real-world problems"
