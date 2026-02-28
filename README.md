@@ -1,5 +1,5 @@
 
-![intro-Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<!-- ![intro-Gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
 
 ```Dart
 Map<String, dynamic> yury = {
@@ -7,7 +7,7 @@ Map<String, dynamic> yury = {
   "name": "Yury Girardi",
   "birth": "30/04/1996",
   "education": "Computer Engineering",
-  "current_role": "R&D Coordinator",
+  "current_role": "CEO | R&D Lead",
   "main_activities": [ "Developing mobile applications", "Building smart electronic devices", "Creating complete tech systems"],
   "interests": ["BMX", "MTB", "Strength training", "Muay Thai"],
   "mindset": "Direct, practical, and focused on solving real-world problems"
